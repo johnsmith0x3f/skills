@@ -99,13 +99,13 @@ What the project does in one paragraph.
 - Key libraries: ...
 - Tools: ...
 
-## Structure
-\```
+## Hierarchy
+\`\`\`
 project/
   main.file
   module/
     ...
-\```
+\`\`\`
 
 ## Milestones
 1. Scaffold and setup
